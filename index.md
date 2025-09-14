@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio - Anuraag
+title: My Portfolio
 ---
 
 # My Portfolio
