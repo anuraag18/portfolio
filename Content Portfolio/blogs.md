@@ -1,10 +1,10 @@
-# ---
+---
 
-# layout: default
+layout: default
 
-# title: Blogs
+title: Blogs
 
-# ---
+---
 
 # Blogs
 
