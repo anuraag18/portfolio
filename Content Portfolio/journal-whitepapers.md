@@ -1,8 +1,9 @@
-# layout: default
+---
+layout: default
 
 title: Journal Articles / Whitepapers / Infographics
+---
 
-===
 
 # Journal Articles / Whitepapers
 
