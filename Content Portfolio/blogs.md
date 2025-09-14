@@ -12,7 +12,7 @@ title: Blogs
 
 * [Outsourcing Print and Mail: 10 Reasons It’s the Smartest Business Decision You Haven’t Made Yet](https://exelaxme.com/blog/outsourcing-print-and-mail-10-reasons-its-the-smartest-business-decision-you-havent-made-yet)
 * [How Marketing Automation is Transforming Financial Services](https://exelaxme.com/blog/how-marketing-automation-is-transforming-financial-services)
-* [How Predictive AI is Redefining Campaign Planning](https://www.notion.so/974b48ce1db94a6aa666a0223940774b?pvs=21)
+* [How Predictive AI is Redefining Campaign Planning](https://exelaxme.com/blog/how-predictive-ai-is-redefining-campaign-planning)
 * [Omnichannel Marketing Strategy for B2B: Steps, Best Practices, and Cases](https://exelaxme.com/blog/omnichannel-marketing-strategy-for-b2b-steps-best-practices-and-cases)
 * [Omnichannel Marketing in 2025: Benefits, Challenges, and Metrics](https://exelaxme.com/blog/omnichannel-marketing-in-2025-benefits-challenges-and-metrics)
 * [Why Digital Storefronts Are the Future of B2B Commerce](https://exelaxme.com/blog/why-digital-storefronts-are-the-future-of-b2b-commerce)
