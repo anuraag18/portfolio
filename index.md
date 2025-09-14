@@ -1,10 +1,13 @@
+---
 layout: default
-title: My Portfolio
+title: Portfolio - Anuraag
+---
 
-My Portfolio
-Blogs → Content%20Portfolio/blogs.md
+# My Portfolio
 
-Journal Articles / Whitepapers / Infographics → Content%20Portfolio/journal-whitepapers.md
+## Writing
+- [Blogs](Content%20Portfolio/blogs.md)
+- [Journal Articles / Whitepapers / Infographics](Content%20Portfolio/journal-whitepapers.md)
 
-Coding Portfolio
-Coming soon: selected projects and demos
+## Coding
+- Coming soon: selected projects and demos
